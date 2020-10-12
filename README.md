@@ -1,9 +1,9 @@
-#Wooder - Plant Manager 
+## Wooder - Plant Manager 
 *Description: 
 
-* Wooder is a water reminder and Plant Manager Application. 
+## Wooder is a water reminder and Plant Manager Application. 
 
-*How it works: 
+## How it works: 
 1. Get Started. 
 2. Add your plants into the App_DB.
 3. Add reminders for watering and fertilizing.
@@ -13,5 +13,5 @@
 
 * Then your done! 
 
-#Contributors: Conchetta, Calvin, Corey, Nick 
+# Contributors: Conchetta, Calvin, Corey, Nick 
 
